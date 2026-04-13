@@ -1,0 +1,29 @@
+p{
+    background-color:red;
+}
+
+.parrafo {
+    background-color: green;
+}
+
+#texto3{
+    background-color: yellow;
+}
+
+p{
+    background-color: blue;
+}
+
+a{
+  background-color: #645f64;
+  color: white;
+  padding: 20px;
+  margin: 20px;
+  font-size: 18px;
+  border-radius: 20px;
+}
+
+a:hover{
+    background-color: #FFF;
+  color: #645f64;
+}
