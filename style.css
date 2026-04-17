@@ -7,3 +7,12 @@ div {
     border: 1px solid #f0f;
 }
 
+
+.btn-danger {
+    background-color: orange;
+}
+
+
+.enlace {
+  background-color: #bebe09;
+}
